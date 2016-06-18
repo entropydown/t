@@ -118,9 +118,9 @@ object Main {
 
     /*
     note: there are a variety of "features" for which to split on --name, ticket number, fare which are numerical, strings etc.
-      how to discreteize these and pick an appropiate split?
+      how to discretize these and pick an appropriate split?
       numeric: sort values and use the midpoint as the split
-      string: no idea, maybe requires some advanced knowldge about the semantics of the string to determine appropiate split:
+      string: no idea, maybe requires some advanced knowledge about the semantics of the string to determine appropriate split:
               semantic splitter, something unique with heuristics for each field
      */
 
